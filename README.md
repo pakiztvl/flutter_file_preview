@@ -8,8 +8,8 @@ This is '**Flutter**' Office document preview plugin.
 
 Support local and online PDF、Word、Excel、PowerPoint etc. document preview
 
-'Android' is used by [TBS( 腾兰设计服务 )](https://x5.tencent.com/tbs/guide/sdkInit.html)
-`iOS`使用的是原生`WKWebView`
+'Android' is used by [TBS] (https://x5.tencent.com/tbs/guide/sdkInit.html)
+`iOS` is used WKWebView`
 
 ![demo](./screenshot/demo.gif)
 
